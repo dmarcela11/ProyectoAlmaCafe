@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7dd0abf22d56244784259da82813382, type: 3}
+  m_Name: Alma&Jorge
+  m_EditorClassIdentifier: 
+  leftCharacter: {fileID: 11400000, guid: 7d96f6e40f865934bb754df7a5b27777, type: 2}
+  rightCharacter: {fileID: 11400000, guid: 0472064a03ab08248a137cbc874162c2, type: 2}
+  sentences:
+  - character: {fileID: 11400000, guid: 7d96f6e40f865934bb754df7a5b27777, type: 2}
+    text: Hola don Jorge
+  - character: {fileID: 11400000, guid: 0472064a03ab08248a137cbc874162c2, type: 2}
+    text: "Alma gracias por tu gesti\xF3n, eres un simbolo de esperanza y resiliencia..."
+  - character: {fileID: 11400000, guid: 7d96f6e40f865934bb754df7a5b27777, type: 2}
+    text: "Don Jorge, la uni\xF3n hace la fuerza, juntos venceremos..."
